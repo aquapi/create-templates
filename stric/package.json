@@ -1,0 +1,11 @@
+{
+  "name": "stric-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "@stricjs/router": "latest",
+    "@stricjs/utils": "latest"
+  },
+  "scripts": {
+    "dev": "bun src/index.ts --hot"
+  }
+}
